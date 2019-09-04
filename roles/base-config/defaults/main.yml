@@ -1,2 +1,5 @@
 ---
-# defaults file for base-config
+yum_packages:
+  - httpie
+  - python-pip
+...
