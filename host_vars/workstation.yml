@@ -1,2 +1,3 @@
 ansible_ssh_private_key_file = ~./ssh/openstack.pem
 ansible_user=cloud-user
+param_repo_base = http://www.opentlc.com/download/ansible_bootcamp
