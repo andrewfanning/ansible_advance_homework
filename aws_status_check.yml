@@ -1,4 +1,4 @@
-- hosts: tag_instance_filter_three_tier_app_psrivast_redhat_com
+- hosts: tag_email_andrew_fanning_siriuscom_com
   gather_facts: false
   tasks:
   - name: Check the instances status

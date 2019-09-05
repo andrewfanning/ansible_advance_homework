@@ -38,6 +38,7 @@
       with_items:
         - /root/common.sh
         - /root/order_svc.sh
+      warn: false
 
     # Using this script will always deploy environments in the us-east-1 region.
     # TODO: this shell task is not working yet!
